@@ -1,0 +1,3 @@
+[submodule "signalstretch/include"]
+	path = signalstretch/include
+	url = https://github.com/Signalsmith-Audio/signalsmith-stretch.git
